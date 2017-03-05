@@ -2,7 +2,7 @@
   "name": "generator-jsberry",
   "version": "0.0.2",
   "description": "API server generator with Node.js / TypeScript / ES6 / Gulp / Yarn/ Yeoman / Express.js / Mongoose / MongoDB",
-  "homepage": "https://github.com/tgorka/jsberry",
+  "homepage": "https://github.com/tgorka/generator-jsberry.git",
   "author": {
     "name": "Tomasz Gorka",
     "email": "tomasz@gorka.org.pl",

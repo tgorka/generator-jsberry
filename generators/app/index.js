@@ -33,5 +33,13 @@ module.exports = Generator.extend({
 
   install: function () {
     this.installDependencies();
+    this.config.save();
+    this.config.defaults(this.defaults());
+  },
+
+  defaults: function() {
+    return {
+      version: "0.0.2"
+    }
   }
 });
