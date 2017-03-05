@@ -12,7 +12,8 @@ describe('generator-jsberry:app', function () {
 
   it('creates files', function () {
     assert.file([
-      'dummyfile.txt'
+      '.gitignore',
+      'package.json'
     ]);
   });
 });
