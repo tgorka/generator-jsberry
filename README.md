@@ -10,6 +10,13 @@ npm install -g yo
 npm install -g generator-jsberry
 ```
 
+or locally using [yarn](https://yarnpkg.com/en/docs/install)
+
+```bash
+yarn add yo
+yarn add generator-jsberry
+```
+
 Then generate your new project:
 
 ```bash
