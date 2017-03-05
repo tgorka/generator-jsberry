@@ -1,7 +1,7 @@
 {
     "name": "generator-jsberry",
-    "version": "0.0.2",
-    "description": "API server generator with Node.js / TypeScript / ES6 / Gulp / Yarn/ Yeoman / Express.js / Mongoose / MongoDB",
+    "version": "0.1.0",
+    "description": "API server generator with Node.js / TypeScript / ES6 / Gulp / Yarn/ Yeoman / Express.js / Mongoose / MongoDB / Docker / Microservice",
     "homepage": "https://github.com/tgorka/generator-jsberry.git",
     "author": {
         "name": "Tomasz Gorka",
@@ -14,6 +14,7 @@
     "main": "generators/index.js",
     "keywords": [
         "jsberry",
+        "berry",
         "node",
         "typescript",
         "ts",
@@ -26,6 +27,8 @@
         "mongo",
         "generator",
         "yarn",
+        "docker",
+        "microservice",
         "yo",
         "yeoman",
         "yeoman-generator"

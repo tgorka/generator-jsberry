@@ -96,7 +96,7 @@ module.exports = Generator.extend({
     defaults: function() {
         return {
             properties: this.props,
-            version: "0.0.2"
+            version: "0.1.0"
         }
     }
 });
